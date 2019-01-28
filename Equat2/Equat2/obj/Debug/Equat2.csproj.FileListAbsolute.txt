@@ -1,0 +1,7 @@
+D:\progCe\Project_C#\Equat2\Equat2\bin\Debug\Equat2.exe.config
+D:\progCe\Project_C#\Equat2\Equat2\bin\Debug\Equat2.exe
+D:\progCe\Project_C#\Equat2\Equat2\bin\Debug\Equat2.pdb
+D:\progCe\Project_C#\Equat2\Equat2\obj\Debug\Equat2.csprojResolveAssemblyReference.cache
+D:\progCe\Project_C#\Equat2\Equat2\obj\Debug\Equat2.csproj.CoreCompileInputs.cache
+D:\progCe\Project_C#\Equat2\Equat2\obj\Debug\Equat2.exe
+D:\progCe\Project_C#\Equat2\Equat2\obj\Debug\Equat2.pdb

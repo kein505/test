@@ -21,7 +21,7 @@ namespace EquationsProgram
             Console.WriteLine(result[1]);
         }
         
-        public double[] Solve(double a, double b, double c)
+        public static double[] Solve(double a, double b, double c)
         {
             if (a==0)
             {

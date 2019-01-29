@@ -57,5 +57,11 @@ namespace Solver.Tests
                 }
             }
         }
+        
+        [TestMethod]
+        public void FailAandB()
+        {
+            TestEquations(0, 0, 0, 1);
+        }
     }
 }
